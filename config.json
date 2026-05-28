@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyrncrypt",
+        "uuid": 22084650,
+        "checksum": "pr6ov"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
